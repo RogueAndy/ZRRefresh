@@ -1,6 +1,6 @@
 //
-//  UIScrollView+XhlRefresh.m
-//  XhlRefreshDemo
+//  UIScrollView+ZRRefresh.m
+//  ZRRefreshDemo
 //
 //  Created by rogue on 2019/1/7.
 //  Copyright © 2019 rogue. All rights reserved.
